@@ -1,0 +1,2 @@
+# UportInterfaceMode
+用于改变uport1250系列的通信接口模式
